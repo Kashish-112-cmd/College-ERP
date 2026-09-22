@@ -28,3 +28,14 @@ Git is used to track changes in the project.
 GitHub is used to host the repository and support collaboration.
 
 Commits record changes made to the project files.
+
+## Student Login
+
+### User Story
+As a student, I want to log in to the College ERP system so that I can securely access my academic information.
+
+### Acceptance Criteria
+1. Student can enter username or email.
+2. Student can enter password.
+3. Valid credentials allow the student to log in.
+4. Invalid credentials display an error message.
