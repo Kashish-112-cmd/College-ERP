@@ -39,3 +39,5 @@ As a student, I want to log in to the College ERP system so that I can securely 
 2. Student can enter password.
 3. Valid credentials allow the student to log in.
 4. Invalid credentials display an error message.
+
+CI/CD pipeline configured using GitHub Actions.
